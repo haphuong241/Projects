@@ -1,8 +1,11 @@
 # Insurance Dashboard (Power BI)
 
+## 🔗 Live Dashboard (Power BI)
+You can explore the interactive dashboard here:  
+https://app.powerbi.com/view?r=eyJrIjoiNmUwNDJiNzYtZTEwNy00ZjQ2LTk1OTEtYThlZDQ5OTM0YmU2IiwidCI6IjMxNGY5ZGI0LWQyOGYtNGRjMC05OTY2LTI3MzJhYTYwZTZhZCIsImMiOjEwfQ%3D%3D
+
 ## 📌 Overview
 This project presents an interactive **Insurance Business Dashboard** built with Power BI to analyze key performance indicators such as revenue, customer behavior, and KPI achievement.
-
 The dashboard provides both **descriptive insights** and **AI-oriented analysis**, supporting data-driven decision-making in business operations.
 
 ---
@@ -13,7 +16,7 @@ The dashboard provides both **descriptive insights** and **AI-oriented analysis*
 - Analyze **customer purchasing patterns**
 - Identify trends and performance drivers
 - Introduce **AI-driven analytical thinking** into reporting
-
+  
 ---
 
 ## 📂 Dataset
